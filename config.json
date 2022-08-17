@@ -1,0 +1,38 @@
+{
+  "title": "Blog by Simon Lee",
+  "url": "https://simonlee.dev",
+  "subtitle": "",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "G-8N9T34JJKN",
+  "disqusShortname": "",
+  "postsLimit": 8,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    }
+  ],
+  "author": {
+    "name": "Simon Lee",
+    "photo": "/photo.jpg",
+    "bio": "iOS Engineer @ PicCollage",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "simonlee2",
+      "facebook": "#",
+      "telegram": "#",
+      "twitter": "simonlee_dev",
+      "linkedin": "shaopinglee",
+      "instagram": "#",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
