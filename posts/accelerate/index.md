@@ -5,7 +5,7 @@ template: "post"
 draft: false
 category: "Reading"
 description: "24 key capabilities that drive improvement in software delivery performance and, in turn, organizational performance..."
-socialimage: "/media/accelerate-cover.jpg"
+socialImage: "/media/accelerate-cover.jpg"
 ---
 
 ![Accelerate](/media/accelerate-cover.jpg)
