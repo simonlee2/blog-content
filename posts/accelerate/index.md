@@ -3,7 +3,6 @@ title: "Accelerate Your Team with Continuous Delivery"
 date: 2019-05-20T15:08:10-07:00
 template: "post"
 draft: false
-slug: "accelerate-your-team-with-continuous-delivery"
 category: "Reading"
 description: "24 key capabilities that drive improvement in software delivery performance and, in turn, organizational performance..."
 socialimage: "/media/accelerate-cover.jpg"
